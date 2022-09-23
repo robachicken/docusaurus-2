@@ -4,6 +4,7 @@ module.exports = {
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/docs/',
 onBrokenLinks: 'ignore',
+trailingSlash: false,
   favicon: 'img/favicon.ico',
   organizationName: 'facebook', // Usually your GitHub org/user name.
   projectName: 'docusaurus', // Usually your repo name.
