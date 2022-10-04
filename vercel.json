@@ -3,7 +3,7 @@
   "redirects": [
     {
       "source": "/",
-      "destination": "/abcd/",
+      "destination": "/docs/",
       "permanent": false
     }
   ]
