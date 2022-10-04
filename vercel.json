@@ -1,3 +1,6 @@
 {
   "outputDirectory": "build"
+"redirects": [
+    { "source": "/", "destination": "/abcd/" },
+]
 }
