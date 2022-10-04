@@ -1,3 +1,7 @@
 {
   "trailingSlash": true
+  "outputDirectory": "build"
+"redirects": [
+    { "source": "/", "destination": "/abcd/" },
+]
 }
