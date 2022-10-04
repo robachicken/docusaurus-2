@@ -2,7 +2,7 @@ module.exports = {
   title: 'My Site',
   tagline: 'The tagline of my site',
   url: 'https://docusaurus-test-subpath.vercel.app',
-  baseUrl: 'abcd/',
+  baseUrl: '/abcd/',
 onBrokenLinks: 'ignore',
 trailingSlash: true,
   favicon: 'img/favicon.ico',
