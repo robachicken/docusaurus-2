@@ -1,6 +1,10 @@
 {
-  "outputDirectory": "build"
+  "outputDirectory": "build",
   "redirects": [
-    { "source": "/", "destination": "/abcd/" },
-]
+    {
+      "source": "/",
+      "destination": "/abcd/",
+      "permanent": false
+    }
+  ]
 }
